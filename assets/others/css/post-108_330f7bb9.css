@@ -1,0 +1,26 @@
+.elementor-108 .elementor-element.elementor-element-3888c4a{margin:-10px 0px 0px 0px;}/* Start custom CSS for wd_compare, class: .elementor-element-4183600 */.playful-componente-comparar {
+    color: #393939;
+}
+
+.playful-componente-comparar .wd-empty-compare:before {
+    content: url("../../assets/img/Comparar-SoyTechno-1-1.png") !important;
+}
+
+.playful-componente-comparar .wd-empty-page-text {
+    text-align: left;
+}
+
+
+
+@media (max-width: 768.98px) {
+    .wd-compare-table .compare-availability td:before {
+        display: block;
+        content:'Disponibilidad';
+    }
+    
+    .compare-description .compare-value:before{
+        content: "DESCRIPCIÓN";
+    }
+    
+
+}/* End custom CSS */
