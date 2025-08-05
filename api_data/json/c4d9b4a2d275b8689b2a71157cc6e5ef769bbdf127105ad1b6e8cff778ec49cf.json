@@ -1,0 +1,852 @@
+{
+  "responseTimeHolder": {
+    "channelResponseTime": [],
+    "channelResponseTimesFor7Days": [
+      {
+        "channelId": 440756,
+        "responseTime": 46
+      },
+      {
+        "channelId": 512045,
+        "responseTime": 1214
+      }
+    ],
+    "channelCustomResponse": []
+  },
+  "userRules": [],
+  "channelResponse": {
+    "channels": [
+      {
+        "appId": 917486755184943,
+        "channelId": 440757,
+        "name": "",
+        "created": 1726750990686,
+        "updated": 1727962203920,
+        "welcomeMessage": {
+          "messageId": 0,
+          "messageType": 1,
+          "messageUserId": 0,
+          "conversationId": 0,
+          "appId": 917486755184943,
+          "createdMillis": 0,
+          "updatedMillis": 0,
+          "readByUser": false,
+          "restrictResponse": false,
+          "messageFragments": [
+            {
+              "fragmentType": 1,
+              "contentType": "text/html",
+              "content": "",
+              "position": 0
+            }
+          ],
+          "source": 0,
+          "ruleId": 0,
+          "articleContentId": 0,
+          "deliveredAt": 0,
+          "cobrowsingId": 0,
+          "labelId": 0,
+          "labelCategoryId": 0,
+          "shouldTranslate": 0,
+          "read": false,
+          "marketingId": 0,
+          "messageUserType": 2,
+          "marketingReplyId": -1,
+          "isResponseForBot": false,
+          "isQuickAction": false,
+          "conversationChannelId": 0,
+          "hideComposer": false,
+          "isParallelConversation": false,
+          "isParallelConversationEnabled": false,
+          "isBotsInput": false,
+          "isBotsPrivate": false,
+          "isWidgetOpenEvent": false,
+          "isNotPreviewMessage": false,
+          "parentMessageId": 0,
+          "isCollectPropertyMessage": false,
+          "readAt": 0
+        },
+        "isDisabled": false,
+        "position": 2,
+        "type": "BOTH",
+        "groupId": 0,
+        "isDefaultChannel": false,
+        "tags": [
+          "bot preview",
+          "fc_bot_preview"
+        ],
+        "restricted": true,
+        "channelAlias": "c2f83819-056a-4ced-8fdf-a2dbfc34da6b",
+        "source": "BOT_PREVIEW",
+        "csatSurveySettings": {},
+        "sendCsat": false,
+        "channelContents": [
+          {
+            "channelContentId": 0,
+            "channelId": 0,
+            "localeId": 0,
+            "deleted": false,
+            "hidden": false,
+            "appId": 0,
+            "groupId": 0,
+            "isCustomRespMsg": false
+          }
+        ],
+        "operatingHoursId": 258576,
+        "serviceAccountId": 0,
+        "channelMeta": {
+          "canMigrateToPMP": false
+        },
+        "threadingInterval": 1440,
+        "isRevampEnabledChannel": false
+      },
+      {
+        "appId": 917486755184943,
+        "channelId": 440756,
+        "name": "Habla con un asesor online ya",
+        "created": 1726750990663,
+        "updated": 1730383584389,
+        "welcomeMessage": {
+          "messageId": 0,
+          "messageType": 1,
+          "messageUserId": 0,
+          "conversationId": 0,
+          "appId": 917486755184943,
+          "createdMillis": 0,
+          "updatedMillis": 0,
+          "readByUser": false,
+          "restrictResponse": false,
+          "messageFragments": [
+            {
+              "fragmentType": 1,
+              "contentType": "text/html",
+              "content": "\u00a1Hola! \u00bfNecesitas ayuda? Cont\u00e1ctanos por aqu\u00ed y te responderemos lo antes posible.",
+              "position": 0
+            }
+          ],
+          "source": 0,
+          "ruleId": 0,
+          "articleContentId": 0,
+          "deliveredAt": 0,
+          "cobrowsingId": 0,
+          "labelId": 0,
+          "labelCategoryId": 0,
+          "shouldTranslate": 0,
+          "read": false,
+          "marketingId": 0,
+          "messageUserType": 2,
+          "marketingReplyId": -1,
+          "isResponseForBot": false,
+          "isQuickAction": false,
+          "conversationChannelId": 0,
+          "hideComposer": false,
+          "isParallelConversation": false,
+          "isParallelConversationEnabled": false,
+          "isBotsInput": false,
+          "isBotsPrivate": false,
+          "isWidgetOpenEvent": false,
+          "isNotPreviewMessage": false,
+          "parentMessageId": 0,
+          "isCollectPropertyMessage": false,
+          "readAt": 0
+        },
+        "isDisabled": false,
+        "position": 2,
+        "type": "BOTH",
+        "groupId": 230301,
+        "isDefaultChannel": true,
+        "tags": [],
+        "restricted": false,
+        "channelAlias": "9df67d5a-68c1-46a0-8c65-2ec280122718",
+        "source": "FRESHCHAT",
+        "csatSurveySettings": {},
+        "sendCsat": false,
+        "channelContents": [
+          {
+            "channelContentId": 0,
+            "channelId": 0,
+            "localeId": 0,
+            "deleted": false,
+            "hidden": false,
+            "appId": 0,
+            "groupId": 230301,
+            "isCustomRespMsg": false
+          }
+        ],
+        "operatingHoursId": 258576,
+        "flowId": "762aa8eab0c0a29e509958272562d0107e2f668b",
+        "serviceAccountId": 932032588837358,
+        "flowBusinessHourType": "BUSINESS_HOUR_ALWAYS",
+        "serviceAccount": {
+          "firstName": "Circuito SoyTechno",
+          "id": 932032588837358,
+          "alias": "d579a9f6-09a5-4f81-a859-befc85fb7ff0",
+          "profilePicUrl": "https://cdn.freshbots.ai/assets/imgs/g3_icons/widget-avatar/avatar_10.png",
+          "profilePicThumbUrl": "https://cdn.freshbots.ai/assets/imgs/g3_icons/widget-avatar/avatar_10.png"
+        },
+        "channelMeta": {
+          "canMigrateToPMP": false
+        },
+        "threadingInterval": 0,
+        "isRevampEnabledChannel": false
+      },
+      {
+        "appId": 917486755184943,
+        "channelId": 448741,
+        "name": "\u00bfTienes alg\u00fan problema?",
+        "created": 1727962111652,
+        "updated": 1730383589150,
+        "welcomeMessage": {
+          "messageId": 0,
+          "messageType": 1,
+          "messageUserId": 0,
+          "conversationId": 0,
+          "appId": 917486755184943,
+          "createdMillis": 0,
+          "updatedMillis": 0,
+          "readByUser": false,
+          "restrictResponse": false,
+          "messageFragments": [
+            {
+              "fragmentType": 1,
+              "contentType": "text/html",
+              "content": "\u00a1Hola! \u00bfNecesitas ayuda con tu compra? Escr\u00edbenos aqu\u00ed y te responderemos lo antes posible para asistirte.",
+              "position": 0
+            }
+          ],
+          "source": 0,
+          "ruleId": 0,
+          "articleContentId": 0,
+          "deliveredAt": 0,
+          "cobrowsingId": 0,
+          "labelId": 0,
+          "labelCategoryId": 0,
+          "shouldTranslate": 0,
+          "read": false,
+          "marketingId": 0,
+          "messageUserType": 2,
+          "marketingReplyId": -1,
+          "isResponseForBot": false,
+          "isQuickAction": false,
+          "conversationChannelId": 0,
+          "hideComposer": false,
+          "isParallelConversation": false,
+          "isParallelConversationEnabled": false,
+          "isBotsInput": false,
+          "isBotsPrivate": false,
+          "isWidgetOpenEvent": false,
+          "isNotPreviewMessage": false,
+          "parentMessageId": 0,
+          "isCollectPropertyMessage": false,
+          "readAt": 0
+        },
+        "isDisabled": false,
+        "position": 3,
+        "type": "BOTH",
+        "groupId": 230299,
+        "isDefaultChannel": false,
+        "tags": [],
+        "restricted": false,
+        "channelAlias": "10223198-8c89-4674-b268-712d3339e1cc",
+        "source": "FRESHCHAT",
+        "csatSurveySettings": {},
+        "sendCsat": false,
+        "channelContents": [
+          {
+            "channelContentId": 0,
+            "channelId": 0,
+            "localeId": 0,
+            "deleted": false,
+            "hidden": false,
+            "appId": 0,
+            "groupId": 230299,
+            "isCustomRespMsg": false
+          }
+        ],
+        "operatingHoursId": 258576,
+        "flowId": "762aa8eab0c0a29e509958272562d0107e2f668b",
+        "serviceAccountId": 932032588837358,
+        "flowBusinessHourType": "BUSINESS_HOUR_ALWAYS",
+        "serviceAccount": {
+          "firstName": "Circuito SoyTechno",
+          "id": 932032588837358,
+          "alias": "d579a9f6-09a5-4f81-a859-befc85fb7ff0",
+          "profilePicUrl": "https://cdn.freshbots.ai/assets/imgs/g3_icons/widget-avatar/avatar_10.png",
+          "profilePicThumbUrl": "https://cdn.freshbots.ai/assets/imgs/g3_icons/widget-avatar/avatar_10.png"
+        },
+        "channelMeta": {
+          "canMigrateToPMP": false
+        },
+        "threadingInterval": 0,
+        "isRevampEnabledChannel": false
+      },
+      {
+        "appId": 917486755184943,
+        "channelId": 455963,
+        "name": "WHATSAPP_+584120113071",
+        "created": 1729205481106,
+        "updated": 1729205481106,
+        "welcomeMessage": {
+          "messageId": 0,
+          "messageType": 1,
+          "messageUserId": 0,
+          "conversationId": 0,
+          "appId": 917486755184943,
+          "createdMillis": 0,
+          "updatedMillis": 0,
+          "readByUser": false,
+          "restrictResponse": false,
+          "messageFragments": [
+            {
+              "fragmentType": 1,
+              "contentType": "text/html",
+              "content": "Welcome Message",
+              "position": 0
+            }
+          ],
+          "source": 0,
+          "ruleId": 0,
+          "articleContentId": 0,
+          "deliveredAt": 0,
+          "cobrowsingId": 0,
+          "labelId": 0,
+          "labelCategoryId": 0,
+          "shouldTranslate": 0,
+          "read": false,
+          "marketingId": 0,
+          "messageUserType": 2,
+          "marketingReplyId": -1,
+          "isResponseForBot": false,
+          "isQuickAction": false,
+          "conversationChannelId": 0,
+          "hideComposer": false,
+          "isParallelConversation": false,
+          "isParallelConversationEnabled": false,
+          "isBotsInput": false,
+          "isBotsPrivate": false,
+          "isWidgetOpenEvent": false,
+          "isNotPreviewMessage": false,
+          "parentMessageId": 0,
+          "isCollectPropertyMessage": false,
+          "readAt": 0
+        },
+        "isDisabled": false,
+        "position": 6,
+        "type": "BOTH",
+        "groupId": 0,
+        "isDefaultChannel": false,
+        "tags": [],
+        "restricted": true,
+        "channelAlias": "9a80d993-71e4-4e0d-8637-a8a99047ebda",
+        "source": "WHATSAPP",
+        "csatSurveySettings": {},
+        "sendCsat": false,
+        "channelContents": [
+          {
+            "channelContentId": 0,
+            "channelId": 0,
+            "localeId": 0,
+            "deleted": false,
+            "hidden": false,
+            "appId": 0,
+            "groupId": 0,
+            "isCustomRespMsg": false
+          }
+        ],
+        "operatingHoursId": 258576,
+        "serviceAccountId": 0,
+        "channelMeta": {
+          "canMigrateToPMP": false,
+          "whatsappPricingModel": "PER_MESSAGE_PRICING"
+        },
+        "threadingInterval": 1440,
+        "isRevampEnabledChannel": false
+      },
+      {
+        "appId": 917486755184943,
+        "channelId": 512045,
+        "name": "WHATSAPP_+584122059412",
+        "created": 1730830705322,
+        "updated": 1732717172953,
+        "welcomeMessage": {
+          "messageId": 0,
+          "messageType": 1,
+          "messageUserId": 0,
+          "conversationId": 0,
+          "appId": 917486755184943,
+          "createdMillis": 0,
+          "updatedMillis": 0,
+          "readByUser": false,
+          "restrictResponse": false,
+          "messageFragments": [
+            {
+              "fragmentType": 1,
+              "contentType": "text/html",
+              "content": "Welcome Message",
+              "position": 0
+            }
+          ],
+          "source": 0,
+          "ruleId": 0,
+          "articleContentId": 0,
+          "deliveredAt": 0,
+          "cobrowsingId": 0,
+          "labelId": 0,
+          "labelCategoryId": 0,
+          "shouldTranslate": 0,
+          "read": false,
+          "marketingId": 0,
+          "messageUserType": 2,
+          "marketingReplyId": -1,
+          "isResponseForBot": false,
+          "isQuickAction": false,
+          "conversationChannelId": 0,
+          "hideComposer": false,
+          "isParallelConversation": false,
+          "isParallelConversationEnabled": false,
+          "isBotsInput": false,
+          "isBotsPrivate": false,
+          "isWidgetOpenEvent": false,
+          "isNotPreviewMessage": false,
+          "parentMessageId": 0,
+          "isCollectPropertyMessage": false,
+          "readAt": 0
+        },
+        "isDisabled": false,
+        "position": 7,
+        "type": "BOTH",
+        "groupId": 230299,
+        "isDefaultChannel": false,
+        "tags": [],
+        "restricted": true,
+        "channelAlias": "0103de2d-a284-4010-b210-96371858634c",
+        "source": "WHATSAPP",
+        "csatSurveySettings": {},
+        "sendCsat": false,
+        "channelContents": [
+          {
+            "channelContentId": 0,
+            "channelId": 0,
+            "localeId": 0,
+            "deleted": false,
+            "hidden": false,
+            "appId": 0,
+            "groupId": 230299,
+            "isCustomRespMsg": false
+          }
+        ],
+        "operatingHoursId": 258576,
+        "flowId": "762aa8eab0c0a29e509958272562d0107e2f668b",
+        "serviceAccountId": 932032588837358,
+        "flowBusinessHourType": "BUSINESS_HOUR_ALWAYS",
+        "serviceAccount": {
+          "firstName": "Circuito SoyTechno",
+          "id": 932032588837358,
+          "alias": "d579a9f6-09a5-4f81-a859-befc85fb7ff0",
+          "profilePicUrl": "https://cdn.freshbots.ai/assets/imgs/g3_icons/widget-avatar/avatar_10.png",
+          "profilePicThumbUrl": "https://cdn.freshbots.ai/assets/imgs/g3_icons/widget-avatar/avatar_10.png"
+        },
+        "channelMeta": {
+          "canMigrateToPMP": false,
+          "whatsappPricingModel": "PER_MESSAGE_PRICING"
+        },
+        "threadingInterval": 0,
+        "isRevampEnabledChannel": false
+      }
+    ],
+    "contentLocale": {
+      "localeId": 26,
+      "language": "spa",
+      "region": "419",
+      "displayCode": "es-LA",
+      "displayName": "Spanish - Latin America",
+      "direction": "ltr",
+      "fdLocaleId": "es-LA",
+      "parentLocaleId": 0,
+      "isVisible": true
+    },
+    "lastModifiedAt": 1732717172960
+  },
+  "operatingHoursResponse": {
+    "operatingHours": [
+      {
+        "timezone": "UTC",
+        "awayMessage": {
+          "messageId": 0,
+          "messageType": 5,
+          "messageUserId": 0,
+          "conversationId": 0,
+          "appId": 917486755184943,
+          "createdMillis": 0,
+          "updatedMillis": 0,
+          "readByUser": false,
+          "restrictResponse": false,
+          "messageFragments": [
+            {
+              "fragmentType": 1,
+              "contentType": "text/html",
+              "content": "We are away now",
+              "position": 0
+            }
+          ],
+          "source": 0,
+          "ruleId": 0,
+          "articleContentId": 0,
+          "deliveredAt": 0,
+          "cobrowsingId": 0,
+          "labelId": 0,
+          "labelCategoryId": 0,
+          "shouldTranslate": 0,
+          "read": false,
+          "marketingId": 0,
+          "messageUserType": 0,
+          "marketingReplyId": -1,
+          "isResponseForBot": false,
+          "isQuickAction": false,
+          "conversationChannelId": 0,
+          "hideComposer": false,
+          "isParallelConversation": false,
+          "isParallelConversationEnabled": false,
+          "isBotsInput": false,
+          "isBotsPrivate": false,
+          "isWidgetOpenEvent": false,
+          "isNotPreviewMessage": false,
+          "parentMessageId": 0,
+          "isCollectPropertyMessage": false,
+          "readAt": 0
+        },
+        "days": {
+          "0": "32400;61200;",
+          "1": "32400;61200;",
+          "2": "32400;61200;",
+          "3": "32400;61200;",
+          "4": "32400;61200;",
+          "5": "32400;61200;",
+          "6": "32400;61200;"
+        },
+        "working": {
+          "0": "true",
+          "1": "true",
+          "2": "true",
+          "3": "true",
+          "4": "true",
+          "5": "false",
+          "6": "false"
+        },
+        "enabled": true,
+        "appId": 917486755184943,
+        "operatingHoursId": 258576,
+        "workingDaily": false,
+        "serverTimeInMillis": 1754357913549,
+        "name": "Default Business Hour",
+        "defaultBhr": true,
+        "isCalendarLinked": false,
+        "holidays": [
+          {
+            "name": "New Year's Day",
+            "date": "Jan 01"
+          },
+          {
+            "name": "Birthday of Martin Luther King Jr",
+            "date": "Jan 16"
+          },
+          {
+            "name": "Washington's Birthday",
+            "date": "Feb 20"
+          },
+          {
+            "name": "Memorial Day",
+            "date": "May 28"
+          },
+          {
+            "name": "Independence Day",
+            "date": "Jul 04"
+          },
+          {
+            "name": "Labor Day",
+            "date": "Sep 03"
+          },
+          {
+            "name": "Columbus Day",
+            "date": "Oct 08"
+          },
+          {
+            "name": "Veterans Day",
+            "date": "Nov 11"
+          },
+          {
+            "name": "Thanksgiving Day",
+            "date": "Nov 22"
+          },
+          {
+            "name": "Christmas Day",
+            "date": "Dec 25"
+          }
+        ]
+      }
+    ]
+  },
+  "offlineExperienceResponse": {
+    "appId": 917486755184943,
+    "offlineExpEnabled": false,
+    "awayMessage": {
+      "messageId": 0,
+      "messageType": 1,
+      "messageUserId": 0,
+      "conversationId": 0,
+      "appId": 917486755184943,
+      "createdMillis": 0,
+      "updatedMillis": 0,
+      "readByUser": false,
+      "restrictResponse": false,
+      "messageFragments": [
+        {
+          "fragmentType": 1,
+          "contentType": "text/html",
+          "content": "Hi! We are currently away. Please leave a message and our team will reach out to you at the earliest.",
+          "position": 0
+        }
+      ],
+      "source": 0,
+      "ruleId": 0,
+      "articleContentId": 0,
+      "deliveredAt": 0,
+      "cobrowsingId": 0,
+      "labelId": 0,
+      "labelCategoryId": 0,
+      "shouldTranslate": 0,
+      "read": false,
+      "marketingId": 0,
+      "messageUserType": 0,
+      "marketingReplyId": -1,
+      "isResponseForBot": false,
+      "isQuickAction": false,
+      "conversationChannelId": 0,
+      "hideComposer": false,
+      "isParallelConversation": false,
+      "isParallelConversationEnabled": false,
+      "isBotsInput": false,
+      "isBotsPrivate": false,
+      "isWidgetOpenEvent": false,
+      "isNotPreviewMessage": false,
+      "parentMessageId": 0,
+      "isCollectPropertyMessage": false,
+      "readAt": 0
+    },
+    "endMessage": {
+      "messageId": 0,
+      "messageType": 1,
+      "messageUserId": 0,
+      "conversationId": 0,
+      "appId": 917486755184943,
+      "createdMillis": 0,
+      "updatedMillis": 0,
+      "readByUser": false,
+      "restrictResponse": false,
+      "messageFragments": [
+        {
+          "fragmentType": 1,
+          "contentType": "text/html",
+          "content": "Thank you for reaching out.",
+          "position": 0
+        }
+      ],
+      "source": 0,
+      "ruleId": 0,
+      "articleContentId": 0,
+      "deliveredAt": 0,
+      "cobrowsingId": 0,
+      "labelId": 0,
+      "labelCategoryId": 0,
+      "shouldTranslate": 0,
+      "read": false,
+      "marketingId": 0,
+      "messageUserType": 0,
+      "marketingReplyId": -1,
+      "isResponseForBot": false,
+      "isQuickAction": false,
+      "conversationChannelId": 0,
+      "hideComposer": false,
+      "isParallelConversation": false,
+      "isParallelConversationEnabled": false,
+      "isBotsInput": false,
+      "isBotsPrivate": false,
+      "isWidgetOpenEvent": false,
+      "isNotPreviewMessage": false,
+      "parentMessageId": 0,
+      "isCollectPropertyMessage": false,
+      "readAt": 0
+    },
+    "localeId": 26,
+    "channelIds": [
+      440756,
+      448741
+    ],
+    "contactInfo": 0
+  },
+  "messageMaskConfigList": [],
+  "requestsWhiteListedDomains": [],
+  "categoryResponse": {
+    "categories": [
+      {
+        "categoryId": 247730,
+        "title": "Compras y productos",
+        "description": "Bien sea que hayas comprado o sigas decidi\u00e9ndote, aqu\u00ed tenemos algunas respuestas a las preguntas m\u00e1s frecuentes sobre compras y productos.",
+        "position": 8,
+        "enabled": true,
+        "platforms": [
+          "ios",
+          "android",
+          "web"
+        ],
+        "deleted": false,
+        "categoryAlias": "692b18eb-a59a-47be-96fc-12194d14dc0a",
+        "appId": 917486755184943,
+        "userId": 917486756652055,
+        "lastUpdatedAt": 1734353803277,
+        "hasEnabledArticles": false,
+        "articleCount": 0,
+        "tags": [
+          "solucion de problemas",
+          "compras",
+          "productos"
+        ],
+        "isFDImported": false
+      },
+      {
+        "categoryId": 246432,
+        "title": "Tiendas y horarios",
+        "description": "Todo sobre nuestros horarios y ubicaciones de nuestras tiendas",
+        "position": 6,
+        "enabled": true,
+        "platforms": [
+          "ios",
+          "android",
+          "web"
+        ],
+        "deleted": false,
+        "categoryAlias": "37828c16-4a8c-40e4-ac03-45aa461615c3",
+        "appId": 917486755184943,
+        "userId": 917486756652055,
+        "lastUpdatedAt": 1733404155823,
+        "hasEnabledArticles": false,
+        "articleCount": 0,
+        "tags": [
+          "horarios",
+          "ubicacion de tiendas"
+        ],
+        "isFDImported": false
+      },
+      {
+        "categoryId": 246373,
+        "title": "Env\u00edos en la Gran Caracas",
+        "description": "Todo lo que necesitas saber sobre los env\u00edos en la Gran Caracas",
+        "position": 4,
+        "enabled": true,
+        "platforms": [
+          "ios",
+          "android",
+          "web"
+        ],
+        "deleted": false,
+        "categoryAlias": "4c8c4073-4be1-4dbd-aecd-cd12986668d8",
+        "appId": 917486755184943,
+        "userId": 917486756652055,
+        "lastUpdatedAt": 1728394324568,
+        "hasEnabledArticles": false,
+        "articleCount": 0,
+        "tags": [
+          "envios gran caracas"
+        ],
+        "isFDImported": false
+      },
+      {
+        "categoryId": 246372,
+        "title": "Env\u00edos a nivel nacional",
+        "description": "Todo sobre las opciones de env\u00edos a nivel nacional",
+        "position": 3,
+        "enabled": true,
+        "platforms": [
+          "ios",
+          "android",
+          "web"
+        ],
+        "deleted": false,
+        "categoryAlias": "723abd4e-4f8e-4552-9c40-4076a2a356dd",
+        "appId": 917486755184943,
+        "userId": 917486756652055,
+        "lastUpdatedAt": 1727972534475,
+        "hasEnabledArticles": false,
+        "articleCount": 0,
+        "tags": [
+          "envios nacionales"
+        ],
+        "isFDImported": false
+      },
+      {
+        "categoryId": 246431,
+        "title": "Cashea",
+        "description": "Todo sobre Cashea",
+        "position": 5,
+        "enabled": true,
+        "platforms": [
+          "ios",
+          "android",
+          "web"
+        ],
+        "deleted": false,
+        "categoryAlias": "a02c2689-e06f-461f-8fc6-3f9b0cce6726",
+        "appId": 917486755184943,
+        "userId": 917486756652055,
+        "lastUpdatedAt": 1731514779936,
+        "hasEnabledArticles": false,
+        "articleCount": 0,
+        "tags": [
+          "cashea"
+        ],
+        "isFDImported": false
+      },
+      {
+        "categoryId": 247725,
+        "title": "M\u00e9todos de pagos",
+        "description": "Todo sobre nuestros m\u00e9todos de pago",
+        "position": 7,
+        "enabled": true,
+        "platforms": [
+          "ios",
+          "android",
+          "web"
+        ],
+        "deleted": false,
+        "categoryAlias": "3fad6010-13cc-4f41-ae40-7fa35723faaa",
+        "appId": 917486755184943,
+        "userId": 917486756652055,
+        "lastUpdatedAt": 1728393792635,
+        "hasEnabledArticles": false,
+        "articleCount": 0,
+        "tags": [
+          "metodos de pago"
+        ],
+        "isFDImported": false
+      }
+    ],
+    "contentLocale": {
+      "localeId": 26,
+      "language": "spa",
+      "region": "419",
+      "displayCode": "es-LA",
+      "displayName": "Spanish - Latin America",
+      "direction": "ltr",
+      "fdLocaleId": "es-LA",
+      "parentLocaleId": 0,
+      "isVisible": true
+    },
+    "lastModifiedAt": 1734905422684
+  },
+  "isSales360App": true,
+  "isBERuleEngineWorking": false,
+  "isJourneyEnabledApp": true,
+  "currentServerTime": 1754357913584,
+  "widgetInfoTraceId": "5c8ccba8-1962-4283-93ec-d6abc81efafb",
+  "isD2cApp": false
+}

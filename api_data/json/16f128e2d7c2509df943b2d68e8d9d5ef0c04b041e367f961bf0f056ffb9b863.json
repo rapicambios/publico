@@ -1,0 +1,13 @@
+{
+  "fragments": {
+    "div.widget_shopping_cart_content": "<div class=\"widget_shopping_cart_content\">\n<div class=\"shopping-cart-widget-body wd-scroll\">\n\t<div class=\"wd-scroll-content\">\n\n\t\t\n\t\t\t<div class=\"wd-empty-mini-cart\">\n\t\t\t\t<p class=\"woocommerce-mini-cart__empty-message empty title\">No hay productos en el carrito.</p>\n\t\t\t\t\t\t\t\t\t<a class=\"btn wc-backward\" href=\"https://soytechno.com/tienda-electronica-venezuela/\">\n\t\t\t\t\t\tReturn To Shop\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\n\t\t\n\t</div>\n</div>\n\n<div class=\"shopping-cart-widget-footer wd-cart-empty\">\n\t\n\t</div>\n</div>",
+    ".elementor-menu-cart__toggle_button span.elementor-button-text": "<span class=\"elementor-button-text\"><span class=\"woocs_special_price_code\" ><span class=\"woocommerce-Price-amount amount\"><bdi>0,00<span class=\"woocommerce-Price-currencySymbol\">&#36;</span></bdi></span></span></span>",
+    ".elementor-menu-cart__toggle_button span.elementor-button-icon-qty": "<span class=\"elementor-button-icon-qty\" data-counter=0>0</span>",
+    "div.elementor-widget-container .woocommerce .cross-sells": "<div class=\"cross-sells\"></div>",
+    "div.elementor-widget-container .woocommerce section.up-sells": "<section class=\"up-sells upsells products\"></section>",
+    "span.wd-cart-number_wd": "\t\t<span class=\"wd-cart-number wd-tools-count\">0 <span>items</span></span>\n\t\t",
+    "span.wd-cart-subtotal_wd": "\t\t<span class=\"wd-cart-subtotal\"><span class=\"woocs_special_price_code\" ><span class=\"woocommerce-Price-amount amount\"><bdi>0,00<span class=\"woocommerce-Price-currencySymbol\">&#36;</span></bdi></span></span></span>\n\t\t",
+    "div.wd-free-progress-bar_wd": "\t\t<div class=\"wd-progress-bar wd-free-progress-bar wd-progress-hide\">\n\t\t\t<div class=\"progress-msg\">\n\t\t\t\tAdd <span class=\"woocommerce-Price-amount amount\"><bdi>3.500,00<span class=\"woocommerce-Price-currencySymbol\">&#36;</span></bdi></span> to cart and get free shipping!\t\t\t</div>\n\t\t\t<div class=\"progress-area\">\n\t\t\t\t<div class=\"progress-bar\" style=\"width: 0%\"></div>\n\t\t\t</div>\n\t\t</div>\n\t\t"
+  },
+  "cart_hash": "2061dfce0f4f2863e84202e85e778414"
+}

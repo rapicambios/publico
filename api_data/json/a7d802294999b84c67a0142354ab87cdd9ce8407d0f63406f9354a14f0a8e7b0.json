@@ -1,0 +1,184 @@
+{
+  "pageSpecificMessage": {},
+  "headerProperty": {
+    "backgroundColor": "#25C16F",
+    "foregroundColor": "#FFFFFF"
+  },
+  "backgroundImage": "1",
+  "customBackground": false,
+  "appId": 917486755184943,
+  "configId": 172673,
+  "createdMillis": 1726750990740,
+  "updatedMillis": 1737544760174,
+  "appName": "Soytechno",
+  "accountId": "E7E8Z0XQOZ",
+  "publicChannelName": "072293d5da0ff11eaf6c9c6d9303b8f74166a186cc4e87eaa1e1dbac96b9b904",
+  "publicTokenName": "rts-token",
+  "enabledFeatures": [
+    "INBOX",
+    "WHATSAPP_PROACTIVE_MSG",
+    "CMS_BASIC_KB",
+    "CMS_PRIVATE_KB",
+    "USER_TAG",
+    "TYPING_INDICATOR",
+    "WHATSAPP_PMP",
+    "CMS_ARTICLE_INTERLINKING",
+    "CONVERSATION_PROPERTIES_DEFAULT",
+    "APP_FILE_UPLOAD",
+    "FAQ",
+    "CMS_ARTICLE_FILTERS",
+    "READ_RECEIPTS",
+    "UNIFIED_BOT_BUILDER",
+    "AUTO_CAMPAIGNS",
+    "CONVERSATION_PROPERTIES_CUSTOM",
+    "WHATSAPP_AUC",
+    "CMS_AUTO_ARTICLE_ORDER",
+    "USER_EVENT"
+  ],
+  "triggeredCampaignSettings": {
+    "shouldInterrupt": false,
+    "timeInterval": 30
+  },
+  "gdprSettings": {
+    "gdprAppSettingsId": 169953,
+    "appId": 917486755184943,
+    "disableUserAnalytics": false,
+    "disableUserIpStore": false,
+    "disableProfileEnrichment": false
+  },
+  "csatSettings": {
+    "userCsatViewTimer": false,
+    "maximumUserSurveyViewHours": 1,
+    "maximumUserSurveyViewMillis": 0,
+    "skipFirstQuestion": false
+  },
+  "widgetSize": "normal",
+  "liveTranslationSetting": {
+    "enabled": false
+  },
+  "freddyLiveTranslationConfig": {
+    "enabled": false
+  },
+  "hideMessenger": false,
+  "contentConfig": {
+    "topics": [
+      440756,
+      448741
+    ],
+    "categories": [
+      246372,
+      247725,
+      246431,
+      247730,
+      246373,
+      246432
+    ]
+  },
+  "appearanceConfig": {
+    "brandLogoURL": "https://fc-euc1-00-pics-bkt-00.s3.eu-central-1.amazonaws.com/09fc4cd2ec6a6bebc479ae744d445c726ecc728f0469d3cc253fcf8bc5774133/f_appLevelPicFull/img_91umqfcmnp_8560f81d288280e7744da0ecc38635567c05aa3696cf87f614a4b555ac601aa7.png",
+    "welcomeMessage": "\u00a1Hola, \ud83d\udc4b! ",
+    "welcomeSubMessage": "Bienvenido al sitio. Dime si tienes alguna pregunta.",
+    "conversationTitle": "Habla con nuestros asesores",
+    "faqTitle": "",
+    "brandColor": {
+      "backgroundColor": "#002052",
+      "foregroundColor": "#ffffff"
+    },
+    "brandColorStyle": "solid",
+    "buttonColor": {
+      "backgroundColor": "#002052",
+      "foregroundColor": "#ffffff"
+    },
+    "widgetLauncherColor": {
+      "backgroundColor": "#002052",
+      "foregroundColor": "#ffffff"
+    },
+    "backgroundImage": "1",
+    "customCssContent": "",
+    "customCssUrl": "",
+    "customCssVersion": 0,
+    "widgetVisiblity": {
+      "selected": "always",
+      "options": [
+        "always",
+        "hidden",
+        "business_hours"
+      ]
+    },
+    "widgetLauncherStyle": "ICON",
+    "widgetLauncherValue": "https://fc-euc1-00-pics-bkt-00.s3.eu-central-1.amazonaws.com/09fc4cd2ec6a6bebc479ae744d445c726ecc728f0469d3cc253fcf8bc5774133/f_appLevelPicFull/img_k2i4k3km8h_cf8150a97e005407ed95919b508f8e5e0e8467d14a84d3e864f635b90424935b.png",
+    "widgetSize": "normal",
+    "widgetPosition": "BOTTOM_RIGHT",
+    "widgetBottomOffsetPx": 15,
+    "widgetRightOffsetPx": 15,
+    "removeFreshworksBranding": true,
+    "customCssPresent": false
+  },
+  "advancedOptionsConfig": {
+    "enableTrustedUrls": true,
+    "trustedUrls": [
+      "https://qa.soytechno.shop/*",
+      "https://qa.soytechno.shop",
+      "https://pre.soytechno.shop/*",
+      "https://pre.soytechno.shop",
+      "https://soytechno.com"
+    ],
+    "enableShowTypingIndicator": true,
+    "enableBrowserNotification": true,
+    "enableNotificationSound": true,
+    "enableAttachFile": true,
+    "enableHideResolvedConversation": true,
+    "enablePrivacyPolicy": false,
+    "privacyPolicySetting": {
+      "message": "",
+      "linkURL": "",
+      "linkText": ""
+    },
+    "enableParallelConversation": false,
+    "isParallelConversationsReplyWindowEnabled": false
+  },
+  "showPoweredBy": true,
+  "isD2cApp": false,
+  "rtsServiceId": "fc-w",
+  "betaFeatures": [
+    "XSS_IN_WIDGET",
+    "FREDDY_LIVE_TRANSLATION",
+    "CONVERSATION_PROPERTIES_DEPENDENT_FIELDS_ENABLED",
+    "CSAT_SKIP_FIRST_QUESTION",
+    "FREDDY_ICON_REVAMP",
+    "WIDGET_FLOATING_CSAT",
+    "EMAIL_CHANNEL_SOURCE_ENABLED",
+    "COLLECT_USER_PROPERTIES",
+    "FREDDY_LIVE_TRANSLATION_OMNI",
+    "CONVERSATION_PROPERTIES",
+    "FREDDY_LIVE_TRANSLATION_STANDALONE",
+    "JWT_USER_AUTH_V2_ENABLED",
+    "IA_AGENT_INACTIVE_UNASSIGN",
+    "ENABLE_VERIFY_EMAIL_JWT",
+    "REOPEN_AS_BOT_CONVERSATION",
+    "AI_AGENT_FILE_LIMIT",
+    "GLOBAL_KEY_FOR_WIDGET_BOT_LOOPING"
+  ],
+  "enabledAgentTypingIndicator": true,
+  "messengerVisibility": {
+    "selected": "always",
+    "options": [
+      "always",
+      "hidden"
+    ]
+  },
+  "widgetHideInputFeatureEnabled": true,
+  "cxSuiteApp": false,
+  "campaignSettings": {
+    "shouldInterrupt": false,
+    "timeInterval": 30
+  },
+  "sales360App": true,
+  "support360App": false,
+  "journeyEnabledApp": true,
+  "omniKBaseEnabled": false,
+  "widgetPrivacyPolicyEnabled": true,
+  "cmsEnabled": false,
+  "configCreation": false,
+  "defaultConfigCreation": false
+}
